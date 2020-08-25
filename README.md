@@ -1,7 +1,7 @@
 <p align=center>
   <img src="https://avatars3.githubusercontent.com/u/66761259"/>
 </p>
-<h1 align=center>💊 -Oxycontin 💊</h1>
+<h1 align=center>💊 Oxycontin 💊</h1>
 
 - 🔭 I’m currently working on **KyotoNet** (A python based botnet)
 - 🌱 I’m currently learning **Golang**!
