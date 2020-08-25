@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>💊 Oxycontin 💊</h1>
 
-- 🔭 I’m currently working on **KyotoNet** (A python based botnet)
+- 🔭 I’m currently working on **mScan** (A mass IOT device exploitation framework.)
 - 🌱 I’m currently learning **Golang**!
 - 📫 How to reach me: **𝕆𝕩𝕪𝕔𝕠𝕟𝕥𝕚𝕟#4362**
 
