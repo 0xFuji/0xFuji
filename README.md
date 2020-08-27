@@ -1,7 +1,7 @@
 <p align=center>
-  <img src="https://avatars3.githubusercontent.com/u/66761259"/>
+  <img src="https://avatars3.githubusercontent.com/u/66761259?s=200"/>
 </p>
-<h1 align=center>💊 Oxycontin 💊</h1>
+<h1 align=center>💊 Oxy 💊</h1>
 
 - 🔭 I’m currently working on **mScan** (A mass IOT device exploitation framework.)
 - 🌱 I’m currently learning **Golang**!
