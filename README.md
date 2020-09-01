@@ -24,3 +24,15 @@ For any client work contact me via my Discord well, this is where you will recie
     </a>
   </p>
 </details>
+<details>
+      <summary>Contact.</summary>
+  <p align=center>
+    <a href="https://github.com/0xKyoto">Github lol.</a>
+    <br>
+    <a href="mailto:oxy@pleasedox.me">oxy@pleasedox.me</a>
+    <br>
+    <a href="https://twitter.com/SimpSwapper">@SimpSwapper</a>
+    <br>
+    <a href="https://discord.gg/HUV7HWh">𝕆𝕩𝕪𝕔𝕠𝕟𝕥𝕚𝕟#4362</a>
+  </p>
+</details>
