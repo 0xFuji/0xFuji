@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>Hi! I'm Oxy 👋</h1>
 
-- 🔭 I’m currently working on **KyotoNet** (A standalone python IOT botnet.)
+- 🔭 I’m currently working on **Ayorah Forum's Theme** (A standalone python IOT botnet.)
 - 🌱 I’m currently learning **Golang**!
 - 📫 How to reach me: **𝕆𝕩𝕪𝕔𝕠𝕟𝕥𝕚𝕟#4362**
 
