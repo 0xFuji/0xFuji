@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ayorah Forum's Theme**
 - 🌱 I’m currently learning **Golang**!
-- 📫 How to reach me: **𝕆𝕩𝕪𝕔𝕠𝕟𝕥𝕚𝕟#4362**
+- 📫 How to reach me: **Oxycontin#4362**
 
 <hr>
 
@@ -33,6 +33,6 @@ For any client work contact me via my Discord well, this is where you will recie
     <br>
     <a href="https://twitter.com/SimpSwapper">@SimpSwapper</a>
     <br>
-    <a href="https://discord.gg/HUV7HWh">𝕆𝕩𝕪𝕔𝕠𝕟𝕥𝕚𝕟#4362</a>
+    <a href="https://discord.gg/HUV7HWh">Oxycontin#4362</a>
   </p>
 </details>
