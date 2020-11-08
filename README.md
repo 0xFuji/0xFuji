@@ -1,11 +1,11 @@
 <p align=center>
   <img src="https://avatars3.githubusercontent.com/u/66761259?s=200"/>
 </p>
-<h1 align=center>Hi! I'm Oxy 👋</h1>
+<h1 align=center>Hi! I'm Fuji 👋</h1>
 
 - 🔭 I’m currently working on **FusionAPI's Backend**
 - 🌱 I’m currently learning **Golang**!
-- 📫 How to reach me: **Oxycontin#4362**
+- 📫 How to reach me: **Fuji#0999**
 
 <hr>
 
@@ -29,10 +29,10 @@ For any client work contact me via my Discord well, this is where you will recie
   <p align=center>
     <a href="https://github.com/0xKyoto">Github lol.</a>
     <br>
-    <a href="mailto:oxy@pleasedox.me">oxy@pleasedox.me</a>
+    <a href="mailto:admin@pleasedox.me">admin@pleasedox.me</a>
     <br>
     <a href="https://twitter.com/SimpSwapper">@SimpSwapper</a>
     <br>
-    <a href="https://discord.gg/HUV7HWh">Oxycontin#4362</a>
+    <a href="https://discord.gg/api">Fuji#0999</a>
   </p>
 </details>
