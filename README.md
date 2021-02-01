@@ -2,6 +2,8 @@
 
 *Lead Developer at <a href="https://fusionapi.dev">FusionAPI</a> · Full Stack Developer*
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=0xFuji.0xFuji)
+
 ### Technologies I use.
 <p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -71,6 +73,3 @@ fujiData = {
     }
 }
 ```
-
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=0xFuji.0xFuji)
