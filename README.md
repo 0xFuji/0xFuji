@@ -23,7 +23,6 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FB542B?style=flat-square&logo=firefox&logoColor=white" />
-  <img alt="Google Analytics" src="https://img.shields.io/badge/-Google_Analytics-FB542B?style=flat-square&logo=Google Analytics&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="NginX" src="https://img.shields.io/badge/-NginX-269539?style=flat-square&logo=NginX&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-66ad24?style=flat-square&logo=bootstrap&logoColor=white" />
